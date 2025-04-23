@@ -1,0 +1,36 @@
+
+# ❌ Bỏ qua file thực thi DevC++
+*.exe
+
+# ❌ Bỏ qua file object
+*.o
+*.obj
+
+# ❌ Bỏ qua output của GCC, Clang
+*.out
+
+# ❌ Bỏ qua file log và debug
+*.log
+*.stackdump
+*.dSYM/
+
+# ❌ Nếu bạn dùng IDE:
+# Code::Blocks
+*.depend
+*.layout
+*.cbp
+
+# VSCode
+.vscode/
+
+# CLion, JetBrains
+.idea/
+
+# ❌ Các file nén/đóng gói
+*.zip
+*.tar
+*.rar
+
+# ❌ Hệ thống
+.DS_Store
+Thumbs.db
